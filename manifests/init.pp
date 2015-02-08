@@ -18,7 +18,7 @@
 #
 # Copyright 2015 Brian Auron.
 #
-class setup_site(
+class setup_server(
   # variables here
 ) {
   include apache
